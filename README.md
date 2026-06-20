@@ -14,7 +14,7 @@
 | プロジェクト | 解決した課題 | 技術 | 主な成果 |
 | --- | --- | --- | --- |
 | [与信スコアリングにおける公平性分析](https://github.com/23610252hoang/hoang-credut-fairness-2026) | 高精度な与信モデルが本当に公平で信頼できるかを検証 | Python, scikit-learn, XGBoost, SHAP | 性別バイアスを最大52%削減し、複数データセットで汎化性を検証 |
-| [ビリヤード店舗向け会計管理アプリ](https://github.com/23610252hoang/billiards-billing-manager) | 台利用時間・追加注文・会計・顧客情報を一元管理 | Python, Tkinter, SQLite | 利用開始から料金計算、領収書、日次売上までを実装 |
+| [ビリヤード店舗向け会計管理アプリ](https://github.com/23610252hoang/billiards-billing-manager)<br>[Webデモを開く](https://23610252hoang-billiards-billing-manager-streamlit-app-jfvswo.streamlit.app/) | 台利用時間・追加注文・会計・顧客情報を一元管理 | Python, Tkinter, SQLite | 利用開始から料金計算、領収書、日次売上までを実装 |
 | [Titanic生存予測](https://github.com/23610252hoang/titanic-survival-eda-ml) | EDAから仮説を作り、予測モデルの改善につなげる | pandas, scikit-learn, Jupyter | 特徴量追加により検証Accuracy 0.873を達成 |
 | [レンタサイクル需要予測](https://github.com/23610252hoang/bike-sharing-demand-prediction) | 日別需要を予測し、配置・運用計画に活用 | pandas, Linear Regression, Matplotlib | 時系列順の検証と予測CSV出力を再現可能な形で整理 |
 
